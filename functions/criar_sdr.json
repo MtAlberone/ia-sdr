@@ -1,0 +1,35 @@
+{
+  "name": "criar_sdr",
+  "description": "Função para enviar e salvar as informações coletadas ao prompt do assistente SDR",
+  "strict": false,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "dados_produtos_servico": {
+        "type": "string",
+        "description": "Respostas coletados das perguntas da seção '1. Informações sobre o Produto/Serviço' de forma estruturada"
+      },
+      "dados_cliente_ideal": {
+        "type": "string",
+        "description": "Respostas coletados das perguntas da seção '2. Perfil de Cliente Ideal' de forma estruturada"
+      },
+      "dados_funil_venda": {
+        "type": "string",
+        "description": "Respostas coletados das perguntas da seção '3. Processo de Vendas' de forma estruturada"
+      },
+      "dados_ferramentas": {
+        "type": "string",
+        "description": "Respostas coletados das perguntas da seção '4. Ferramentas de Trabalho' de forma estruturada"
+      },
+      "dados_objecoes": {
+        "type": "string",
+        "description": "Respostas coletados das perguntas sobre as objeções dos cliente e possiveis respostas para essas objeções."
+      },
+      "dados_complementares": {
+        "type": "string",
+        "description": "Respostas coletados das perguntas da seção '5. Informações sobre o Suporte Interno' de forma estruturada"
+      }
+    },
+    "required": []
+  }
+}
