@@ -1,0 +1,37 @@
+{
+  "name": "atualizar_crm",
+  "description": "Função para criar ou atualizar os dados coletados do lead/cliente no CRM",
+  "strict": false,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "nome": {
+        "type": "string",
+        "description": "Nome completo da pessoa."
+      },
+      "telefone": {
+        "type": "string",
+        "description": "Numero de telefone do lead. Deve ser envinado sem nenhum caractere especial."
+      },
+      "email": {
+        "type": "string",
+        "description": "Endereço de email do lead."
+      },
+      "cnpj": {
+        "type": "string",
+        "description": "Numero do CNPJ do lead. Deve ser envinado sem nenhum caractere especial."
+      },
+      "interesse": {
+        "type": "string",
+        "description": "Deve ser rempondido com 'LOCACAO' quando o lead esta interessado em alugar ou 'VENDA' quando tiver interessada em comprar ou financiar."
+      },
+      "equipamento": {
+        "type": "string",
+        "description": "Nome do equipamento que o lead está interessado."
+      }
+    },
+    "required": [
+      "telefone"
+    ]
+  }
+}
