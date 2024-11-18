@@ -1,0 +1,21 @@
+{
+  "name": "buscar_infos",
+  "description": "Buscar se existe informações no CRM sobre a pessoa que esta conversando com você, tendo como principal referencia pra consulta o numero de telefone",
+  "strict": false,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "telefone": {
+        "type": "string",
+        "description": "Numero de telefone do lead. Deve ser envinado sem nenhum caractere especial."
+      },
+      "cnpj": {
+        "type": "string",
+        "description": "Numero do CNPJ do lead. Deve ser envinado sem nenhum caractere especial."
+      }
+    },
+    "required": [
+      "telefone"
+    ]
+  }
+}
