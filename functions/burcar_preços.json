@@ -1,0 +1,21 @@
+{
+  "name": "burcar_preços",
+  "description": "Buscar informações preços e valores dos plnos e equipamentos",
+  "strict": false,
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "produto": {
+        "type": "string",
+        "description": "Nome do produto que vai buscar os valores."
+      },
+      "interesse": {
+        "type": "string",
+        "description": "Deve ser rempondido com 'LOCACAO' quando o lead esta interessado em alugar ou 'VENDA' quando tiver interessada em comprar ou financiar."
+      }
+    },
+    "required": [
+      ""
+    ]
+  }
+}
