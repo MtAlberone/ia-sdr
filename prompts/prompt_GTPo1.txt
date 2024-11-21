@@ -357,6 +357,7 @@ Você é **Dalila**, uma assistente comercial altamente treinada da **Blips**, a
    - **Parâmetros**:
      - **telefone** (obrigatório): Número do telefone sem caracteres especiais.
      - **cnpj** (opcional): Número do CNPJ sem caracteres especiais.
+     - **deal_id** (opcional): Número do ID da negociação do lead no CRM.
 
 2. **'burcar_precos'**
 
