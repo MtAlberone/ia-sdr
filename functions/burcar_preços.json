@@ -1,5 +1,5 @@
 {
-  "name": "burcar_preços",
+  "name": "burcar_precos",
   "description": "Buscar informações preços e valores dos plnos e equipamentos",
   "strict": false,
   "parameters": {
