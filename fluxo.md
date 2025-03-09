@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     A[INÍCIO] --> B{Ativação de Listas de Clientes (se necessário)};
     B --> C{Receber Mensagem no WhatsApp};
@@ -49,4 +48,3 @@ graph TD
     style AC fill:#eee,stroke:#333,stroke-width:2px
     style N fill:#efe,stroke:#333,stroke-width:2px
     style U fill:#efe,stroke:#333,stroke-width:2px
-```
