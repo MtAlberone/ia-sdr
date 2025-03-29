@@ -19,6 +19,7 @@ Imersão intensiva destinada a capacitar profissionais e empreendedores na cria�
   - Lote 1: R$3.450,00 à vista (ou 10x de R$404,24) - Inscrições até 16/04  
   - Lote 2: R$3.997,00 à vista (ou 10x de R$468,33) - Inscrições até 14/05  
 - **Vagas:** Limitadas a 20 participantes por lote
+- **Link de inscrição e pagamento:** https://pay.kiwify.com.br/EUDO0xU
 
 ---
 
@@ -135,6 +136,7 @@ O curso é estruturado em etapas, combinando teoria e prática para proporcionar
   - **Lote 1:** R$3.450,00 à vista (ou 10x de R$404,24) Até 16/04  
   - **Lote 2:** R$3.997,00 à vista (ou 10x de R$468,33) Até 14/05  
 - **Vagas:** Limitadas a 20 participantes por lote
+- **Link de pagamento:** https://pay.kiwify.com.br/EUDO0xU
 
 ---
 
