@@ -62,13 +62,35 @@ O curso é estruturado em etapas, combinando teoria e prática para proporcionar
 
 ### 4.1. Pré Imersão
 - **Introdução à IA e LLM:**  
-  Conceitos fundamentais, evolução histórica (como os Transformers e a emergência dos LLMs) e ferramentas do mercado.  
-- **Configurações Técnicas:**  
-  Instalação e configuração de serviços como OpenAI, Railway (para o n8n), Google API Key, Zapster e Supabase.
+    - **O que são IA e LLM:** Definições essenciais, conceitos básicos e evolução histórica (incluindo a importância dos Transformers).
+    - **Utilidade dos LLMs:** Exploração das aplicações práticas de Modelos Grandes de Linguagem no dia a dia, nos negócios e como ferramentas ("IA First"). Apresentação de diversas ferramentas de IA do mercado.
+    - **Panorama Atual dos LLMs:** Visão geral do mercado atual, principais modelos (ChatGPT, Gemini, Claude, etc.), players e tipos (LLM vs LRM). Inclui testes comparativos práticos.
+    - **Case Prático (Colaborador Digital):** Apresentação do case "Colaborador Digital" da Blips como exemplo de aplicação real.
+    - **Exploração do ChatGPT:** Conhecimento prático da plataforma OpenAI e seus recursos (busca, análise de dados, geração de imagem, etc.).
+
+- **Configurações Técnicas Essenciais:**
+    - **Preparação do Ambiente:** Guia prático para criação de contas e configuração inicial das plataformas e serviços necessários para as aulas práticas:
+    - **OpenAI:** Obtenção e configuração de chave de API.
+    - **Railway:** Criação da instância para hospedar o N8N.
+    - **Google Cloud:** Obtenção de chave de API para serviços Google.
+    - **Zapster:** Configuração para integração com WhatsApp.
+    - **Supabase:** Criação de conta e projeto para uso como banco de dados.
 
 ### 4.2. Imersão
 - **Conceitos e Ferramentas Avançadas:**  
-  Engenharia de Prompt, construção de agentes autônomos, análise de dados (Canvas) e utilização do n8n para automação.
+  - **Como a IA Funciona:**
+    Desmistificação do processo de IA, abordando os componentes essenciais: **dados** (input), **processamento** (modelos), **automação** (fluxos) e a **inteligência** resultante.
+  - **Engenharia de Prompt:**
+    Estudo das técnicas para criar instruções eficazes (prompts) para LLMs, cobrindo a estruturação da **entrada**, como guiar o **processamento** do modelo e como obter a **saída** desejada.
+  - **Criação de Especialistas (GPTs):**
+    Exploração do conceito de agentes especializados e a criação prática de GPTs customizados (standalone) utilizando a interface "Meus GPTs" da OpenAI.
+  - **Análise de Dados com IA:**
+    Introdução ao uso de ferramentas assistidas por IA (como o Canvas do ChatGPT) para carregar dados, gerar visualizações, extrair insights e apoiar a tomada de decisão.
+  - **Automação de Processos:**
+    Visão geral da importância da automação e introdução à plataforma **N8N** como ferramenta central para criar, orquestrar e gerenciar fluxos de trabalho automatizados.
+  - **Conceito de Agente de IA:**
+    Definição e exemplos de **Agentes** ("Colaboradores Digitais") como entidades capazes de realizar tarefas complexas de forma autônoma ou semiautônoma, interagindo com usuários e sistemas.
+   
 - **Aulas Práticas:**  
   - **Configuração Básica de Workflows no N8N:** 
     Criação de um fluxo inicial simples com nós de AI Agent e chat, incluindo a configuração das credenciais da OpenAI e execução de testes básicos.
