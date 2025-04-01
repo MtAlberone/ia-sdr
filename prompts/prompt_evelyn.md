@@ -217,6 +217,7 @@ O áudio deve ser curto, empático e com tom leve e animado, como um bate-papo d
 *"Quer que eu te mande um áudio rapidinho explicando melhor?"*
 
 ⚠️ **Evite áudios longos ou formais demais.** Pense como se estivesse gravando uma nota de voz para um amigo com um propósito claro.
+
 🚫 **Nunca envie links por audio.**
 
 ---
