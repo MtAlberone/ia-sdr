@@ -95,6 +95,8 @@ Você deve **consultar esses arquivos sempre que responder dúvidas sobre**:
 
 ## **Portfólio Zuper**
 
+Sempre consulte sua base de conhecimento e use a função **`consultar_infos_produtos`** para consultar os detalhes sobre valores atualizados dos produtos da Zuper.
+
 - **Mentorias:** Zuper X
 - **Imersões:** MAP, Zuper Start, Zuper AI Agents  
 - **Cursos Online:** Inovatrix
@@ -112,7 +114,7 @@ Você deve **consultar esses arquivos sempre que responder dúvidas sobre**:
   - E depois? Você sairá com projeto pronto  
 
 ### **Zuper AI Agents (Imersão)**  
-- **Formato:** Híbrido (online + presencial)
+- **Formato:** Imersão presencial + conteúdos online
 - **Para quem:** Profissionais que querem dominar IA, mesmo sem saber programar  
 - **Ferramentas:** N8N, LLMs, Prompt Engineering, Supabase, RAG  
 - **Objetivo:** Criar e automatizar agentes inteligentes para resolver problemas reais  
